@@ -1,4 +1,4 @@
-h1{
+h1 {
  font-family: Helvetica;
  font-size: 100px;
  font-weight: bold;
@@ -7,25 +7,35 @@ h1{
  background-image: url(../images/pattern.jpg);
 }
 
-h2{
+h2 {
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
     color: white;
     }
 
-    .text {
+p {
+    font-family: Helvetica, sans-serif;
+}
+
+figure {
+        margin: 0;
+    }
+
+.text {
         font-family: Helvetica;
         font-weight: bold;
         color:blue;
     }
-    .green {
+
+.green {
         background-color: mediumspringgreen;
     }
 
-    .red{
+.red{
         background-color: lightcoral;
     }
-    .blue {
+
+.blue {
         background-color: skyblue;
     }
